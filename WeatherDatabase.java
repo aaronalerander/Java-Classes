@@ -1,4 +1,4 @@
-package comp1406a2;
+
 
 /** A very simple database storing weather data */
 public class WeatherDatabase{
@@ -22,15 +22,7 @@ public class WeatherDatabase{
 	int amountOfStations = 0;
 	WeatherStation[] weatherStationsDB = new WeatherStation[0];
 
-	//
-	// You need to complete these methods.
-	//
-	// Unless stated, you will need to change the return
-	// value of each of these methods as well as add the actual
-	// body of the methods.
-	//
-
-
+	
 
 	/** Returns all weather stations in the database
 	* in no particular order
