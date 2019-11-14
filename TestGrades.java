@@ -1,4 +1,4 @@
-package comp1406a3;
+
 
 public class TestGrades{
 	/** Generate test cases for the Grades class.
