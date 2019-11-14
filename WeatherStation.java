@@ -1,21 +1,11 @@
-package comp1406a2;
+
 
 /** A weather station keeps a collection of weather reports.
   * The actual weather station it models will make temperature
   * observations which provides the data for the reports.
   *
-  * A weather station only needs to remember the last 10
-  * reports added to it (in the order that they are added),
-  * in addition to the report with the highest temperature that
-  * has ever been and recorded/added to this weather station.
-  * That is, it only needs to store 11 weather reports in total.
-  *
-  * Notes: The highest ever temperature record might be one of the
-  *        last 10 added reports but it also might not.
-  *        You must store the last 10 reports in an array.
-  *        The higherst ever temperature report does not need to be
-  *        sotred in this array (unless it was one of the last 10).
-  */
+  * 
+  * 
 public class WeatherStation{
 
 /* --------------------------------------------------------------------------/
