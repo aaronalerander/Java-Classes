@@ -1,4 +1,4 @@
-package comp1406a4;
+
 
 public class StudentTaxes extends Taxes{
 
