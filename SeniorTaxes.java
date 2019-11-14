@@ -1,4 +1,4 @@
-package comp1406a4;
+
 
 public class SeniorTaxes extends Taxes{
     double income;
