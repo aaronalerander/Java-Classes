@@ -1,12 +1,4 @@
-package comp1406a2;
 
-/**
- * A class to represent temperature (with a value and scale).
- *
- * COMP 1406
- * Winter 2019
- * Assignment 2
- */
 
 public class Temperature{
 	private double currentTemperature = -1;
